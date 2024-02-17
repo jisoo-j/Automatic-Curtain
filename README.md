@@ -1,6 +1,6 @@
 # Automatic-Curtain
 
-= Photoresistor Sensor Code
+- Photoresistor Sensor Code
 Independent sensor code before integration to the motor code. We initially tested out the sensor by assigning the data through pin 36. As the brightness value is within the range between 0-4200, we created the if statement separately.
 
 - Motor code combined with light sensor code (Arduino)
